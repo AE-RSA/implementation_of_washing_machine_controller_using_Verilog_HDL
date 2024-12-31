@@ -1,4 +1,4 @@
-# Washing Machine FSM Project
+# Implementation_of_washing_machine_controller_using_Verilog_HDL
 
 ## Project Overview
 This project implements a finite state machine (FSM) to model the operation of a washing machine. The design is written in Verilog and includes a testbench for functional verification. The washing machine progresses through various stages: **Idle**, **Fill**, **Wash**, **Rinse**, **Spin**, and **Done**.
